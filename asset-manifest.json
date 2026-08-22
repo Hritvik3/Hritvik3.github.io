@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.17af87b4.chunk.css",
-    "main.js": "/static/js/main.89146ca3.chunk.js",
-    "main.js.map": "/static/js/main.89146ca3.chunk.js.map",
+    "main.js": "/static/js/main.a84f52ba.chunk.js",
+    "main.js.map": "/static/js/main.a84f52ba.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.839d74fd.js",
     "runtime-main.js.map": "/static/js/runtime-main.839d74fd.js.map",
     "static/js/2.1684eb3e.chunk.js": "/static/js/2.1684eb3e.chunk.js",
     "static/js/2.1684eb3e.chunk.js.map": "/static/js/2.1684eb3e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.08b1acc9583c0302e6535b3f8b4ebca5.js": "/precache-manifest.08b1acc9583c0302e6535b3f8b4ebca5.js",
+    "precache-manifest.1f79a8dc9636855e383e2a0b88f1869a.js": "/precache-manifest.1f79a8dc9636855e383e2a0b88f1869a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.17af87b4.chunk.css.map": "/static/css/main.17af87b4.chunk.css.map",
     "static/media/1250px-NIIT_logo.png": "/static/media/1250px-NIIT_logo.9b8ea488.png",
@@ -65,6 +65,6 @@
     "static/js/runtime-main.839d74fd.js",
     "static/js/2.1684eb3e.chunk.js",
     "static/css/main.17af87b4.chunk.css",
-    "static/js/main.89146ca3.chunk.js"
+    "static/js/main.a84f52ba.chunk.js"
   ]
 }
