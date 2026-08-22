@@ -26,7 +26,7 @@ const greeting = {
     "A passionate data professional skilled in analytics, ML, delivering impactful business solutions",
   resumeLink:
     "https://drive.google.com/file/d/1DaM7uKxV19oPdi83Yk1cpFAFZKaIQxTW/view",
-  portfolio_repository: "https://github.com/Hritvik3/hritvikpatwa",
+  portfolio_repository: "https://github.com/Hritvik3/Hritvik3.github.io",
   githubProfile: "https://github.com/Hritvik3",
 };
 
