@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": "Assistant in All You Need",
+      "createdAt": "2023-04-13T04:18:19Z",
+      "url": "https://github.com/Hritvik3/Assistant-is-all-you-need",
+      "description": "An AI Data assistant to interact with your documents and files locally",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Product Categorization",
+      "createdAt": "2022-03-13T20:41:33Z",
+      "url": "https://github.com/Hritvik3/Product-Categorization",
+      "description": "Product categorization based on their description with Machine Learning algorithms. Additionaly we did EDA analysis (data exploration, data aggregation and cleaning data) for better feature selection.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "GCP",
+          "iconifyClass": "skill-icons:gcp-light"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "Marketing-Campaign-Strategy",
+      "createdAt": "2022-02-11T14:50:20Z",
+      "url": "https://github.com/Hritvik3/Marketing-Campaign-Strategy",
+      "description": "🌀 Reaching out to the Most Probable Buyers with your Marketing Campaign, using Machine Learning. Given the limited marketing budget, marketers can only reach out to a portion of the total target audience.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "Postgre-SQL",
+          "iconifyClass": "devicon:postgresql-wordmark"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "HR Analytics Dashboard",
+      "createdAt": "2021-11-26T17:56:07Z",
+      "url": "https://github.com/Hritvik3/HR-Analytics-Dashboard",
+      "description": "⚙️ Visualizations for key HR metrics such as employee turnover rate, performance ratings, recruitment metrics, and more in Power BI",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Power BI",
+          "iconifyClass": "simple-icons:powerbi"
+        },
+        {
+          "name": "Excel",
+          "iconifyClass": "vscode-icons:file-type-excel2"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": "Sportify",
+      "createdAt": "2021-01-01T08:31:51Z",
+      "url": "https://github.com/Hritvik3/Sportify",
+      "description": "🚀 Full fledges Sports Ecommerce Platform",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "devicon:java-wordmark"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Springboot",
+          "iconifyClass": "simple-icons:springboot"
+        },
+        {
+          "name": "Bootstrap",
+          "iconifyClass": "skill-icons:bootstrap"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Hritvik's Portfolio",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "https://github.com/Hritvik3/hritvikpatwa",
+      "description": "🔥 This Portfolio website which is fully customizable",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    }
+  ]
+}
